@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbelAbraham77](https://github.com/AbelAbraham77)
 
-- 📝 I regularly write articles on [https://ideaspycodewithabel.blogspot.com/](https://ideaspycodewithabel.blogspot.com/)
+- 📝 I occasionally write articles on [https://ideaspycodewithabel.blogspot.com/](https://ideaspycodewithabel.blogspot.com/)
 
 - 📫 How to reach me **abelabraham.work@outlook.com**
 
