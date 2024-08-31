@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelabraham77&label=Profile%20views&color=0e75b6&style=flat" alt="abelabraham77" /> </p>
 
-- 🌱 I’m currently learning **Java and Full Stack.**
+- 🌱 I’m currently learning **C/C++ and R.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbelAbraham77](https://github.com/AbelAbraham77)
 
