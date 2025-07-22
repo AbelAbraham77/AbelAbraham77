@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write articles on [https://ideaspycodewithabel.blogspot.com/](https://ideaspycodewithabel.blogspot.com/)
 
-- 📫 How to reach me **abelabraham.work@outlook.com**
+- 📫 How to reach me **abelabraham.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
